@@ -1,0 +1,19 @@
+.hero {
+    background: linear-gradient(90deg, rgba(0, 255, 255, 0.29) -17.11%, #000000 50.37%);
+
+    h1 {
+        color: white;
+        font-size: 16rem;
+        flex: 1 1 80%;
+        line-height: 1;
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+
+    p {
+        flex: 1 1 20%;
+        font-size: 24px;
+        display: flex;
+        align-items: flex-end;
+    }
+}
